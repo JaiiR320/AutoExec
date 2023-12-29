@@ -20,7 +20,9 @@ Typing in the console `autoexec help` will print out a list of commands as well 
 
 ## Documentation 
 
-Full documentation on how to use AutoExec can be found [Here]()
+Full documentation on how to use AutoExec can be found [Here](https://auto-exec.vercel.app/)
+
+> also still a work in prograss, might be a default docusaurus project upon visiting...
 
 ## Conclusion
 
