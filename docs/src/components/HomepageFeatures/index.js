@@ -5,31 +5,31 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/console_icon.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        An Autoexec file can either be created in the terminal or
+        through a text editor, and added to the bucket directory later!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Quickly Launch your Favorite Programs',
+    Svg: require('@site/static/img/computer_icon.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Autoexec allows you to launch your favorite programs on startup
+        and create multiple configurations for different situations.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Quick to Edit',
+    Svg: require('@site/static/img/settings_icon.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Edit your Autoexec file with ease, and add new programs to your list
+        with a single command!
       </>
     ),
   },
